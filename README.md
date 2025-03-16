@@ -1,6 +1,6 @@
 # NordCatje
 Liudmila Ambarova | Data &amp; Business Analyst | Power BI | SQL | Python
-# 👋 Hi, I'm Liudmila Ambarova
+#  Hi, I'm Liudmila Ambarova
 
 ##  About Me
 Results-driven **Data Analyst** with extensive experience in **financial analysis, risk assessment, business intelligence, and marketing analytics**. Strong expertise in **data analytics, predictive modeling, and regulatory compliance**. Passionate about leveraging insights to optimize financial processes, improve marketing performance, and enhance decision-making. 
